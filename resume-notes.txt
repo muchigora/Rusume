@@ -1,0 +1,60 @@
+Software Testing, Implementation Engineer
+
+WMS
+Deployment of Software updates & upgrades
+Software Implementation support and guidance
+Liaising with clients throughout SDLC process from identitfying issues to implementation and support
+UAT, Smoke Testing, Regression Testing and Stress Testing
+Documentation
+Designing test scenarios and test cases.
+Problem analysis and Troubleshooting
+	- Indepth Incident analysis incidents, incident trends and solutions implemented leading Business Requirements proposals
+Excellent with RDMS, SQL, PL/SQL (Oracle,)
+System configurations
+Monitoring Order Manager System to ensure accurate data transfer with WMS System through Connection Manager interface
+Troubleshooting issues realting to connection Manager job triggers
+Monitoring, maintaining & troubleshooting TMS (Transport Management System) related issues on routing of customer orders / parcels
+
+Supply Chain System Analyst
+Write complex queries for data analysis and identify root cause for issue reported by users
+Coordinate with multiple IT teams for a smooth integration between supply chain systems and other systems in the organization.
+Troubleshoot issues with different software systems used at Distribution centers.
+Troubleshoot issues middle ware and application servers.
+Support development, configuration, and maintenance of complex TSS computer systems such as Manhattan WMOS 2014, WM Active and MHE systems.
+Configure Manhattan WMOS 2014 and WM Active systems based on company and user requirements.
+Support different IT systems used at warehouse and Tailoring locations.
+Work closely with multiple software vendors for new enhancement requests or resolve the system issues.
+Coordinate with Business users and translate business requirements to technical requirements.
+Fine tune database queries for performance improvement.
+Provide technical guidance for improvement of business processes and cost reduction.
+Write Unix shell scripts.
+Schedule jobs using schedular tools such as Uc4.
+Document supply chain processes.
+
+ALL
+Customer Service
+Communication skills
+
+
+Web Developer
+
+Basic NoSQL knowledge (MongoDB)
+Basic programming knowledge, Java, Python, JavaScript, PHP, HTML, CSS
+Frameworks: ExpressJS, ReactJS, Wordpress, Bootstrap
+
+
+Software Support Engineer / System Support Support Engineer / Client Support Analyst
+Incident management in (ServiceNow, SalesForce)
+- Taking ownership Incidents Assigned and meet deadlines as specified in SLAs
+- Documenting incidents
+problem analysis and troubleshooting
+- Indepth analysis of major incidents and providing feedback and reccommendations to customer
+
+
+Technical Support Engineer
+https://www.indeed.com/jobs?q=System+Support+Engineer&l=&from=searchOnDesktopSerp&vjk=ec041430d5d8ee8c&advn=2208386868053589
+https://www.indeed.com/jobs?q=System+Support+Analyst&l=&from=searchOnDesktopSerp&vjk=42ece453cba0c5f5&advn=3662011528086250
+https://www.indeed.com/jobs?q=System+Analyst&l=&from=searchOnDesktopSerp&vjk=b0348c1762ea5e60&advn=4474505606226285
+
+
+
